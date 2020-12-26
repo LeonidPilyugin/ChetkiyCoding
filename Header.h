@@ -42,9 +42,9 @@
 #define хуёвей <
 #define не_пизже <=
 #define не_хуёвей >=
-#define бля_и_бля &&
-#define бля_или_бля ||
-#define бля_нет_бля !
+#define и &&
+#define или ||
+#define нет !
 
 #define пиздуй goto
 #define ёбни break
@@ -72,7 +72,7 @@
 #define пацанское protected
 #define общий static
 #define вертолёт virtual
-#define бля_я_нахуй this
+#define я this
 #define бицуха sizeof
 #define братки :
 #define братуха :
