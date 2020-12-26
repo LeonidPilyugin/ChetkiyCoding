@@ -15,9 +15,9 @@
 #define иначе else
 #define пизже >
 #define хуёвей <
-#define бля_и_нахуй &&
-#define бля_или_нахуй ||
-#define бля_нет_нахуй !
+#define бля_и_бля &&
+#define бля_или_бля ||
+#define бля_нет_бля !
 #define лысый unsigned
 #define нормальный signed
 #define целый int
@@ -63,3 +63,7 @@
 #define пиздец default
 #define шняга enum
 #define возьми ->
+#define пахан main
+#define четкие_кенты std
+#define ёпта )
+#define базаришь (
