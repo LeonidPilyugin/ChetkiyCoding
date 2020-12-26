@@ -94,5 +94,7 @@
 #define шняга enum
 
 #define возьми ->
+#define получи .
 #define адрес *
 #define вычисли &
+#define найди ::
