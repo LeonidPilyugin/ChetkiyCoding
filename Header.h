@@ -17,8 +17,8 @@
 #define ёпта )
 #define да ?
 #define пизда :
-/*#define ёпта [
-#define базаришь ]*/
+#define чёткий [
+#define лох ]
 
 #define лысый unsigned
 #define нормальный signed
