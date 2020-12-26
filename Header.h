@@ -19,6 +19,7 @@
 #define пизда :
 #define чёткий [
 #define лох ]
+#define ломка \
 
 #define лысый unsigned
 #define нормальный signed
@@ -91,4 +92,7 @@
 #define хуйня nullptr
 #define спизди extern
 #define шняга enum
+
 #define возьми ->
+#define адрес *
+#define вычисли &
