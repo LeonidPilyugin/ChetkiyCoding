@@ -4,7 +4,7 @@
 #define ёба }
 #define внатуре ==
 #define базарь cout
-#define спроси cin
+#define поясни cin
 #define сюда >>
 #define туда <<
 #define блять ;
@@ -15,9 +15,9 @@
 #define иначе else
 #define пизже >
 #define хуёвей <
-#define и &&
-#define или ||
-#define не !
+#define бля_и_нахуй &&
+#define бля_или_нахуй ||
+#define бля_нет_нахуй !
 #define лысый unsigned
 #define нормальный signed
 #define целый int
@@ -49,7 +49,7 @@
 #define пацанское protected
 #define общий static
 #define вертолёт virtual
-#define я this
+#define бля_я_нахуй this
 #define бицуха sizeof
 #define отпизди delete
 #define позови using
