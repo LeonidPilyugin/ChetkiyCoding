@@ -15,6 +15,8 @@
 #define ёба }
 #define базаришь (
 #define ёпта )
+#define да ?
+#define пизда :
 /*#define ёпта [
 #define базаришь ]*/
 
@@ -29,6 +31,8 @@
 #define децл char
 #define дегенерат bool
 #define понятие const
+#define терпила auto
+#define авторитет volatile
 
 
 #define чётко true
@@ -45,6 +49,13 @@
 #define и &&
 #define или ||
 #define нет !
+
+#define перекосоёбь ~
+#define кривое_и &
+#define кривое_или |
+#define криво_разные ^
+#define ёбни_влево_на <<
+#define ёбни_вправо_на >>
 
 #define пиздуй goto
 #define ёбни break
