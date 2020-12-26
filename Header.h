@@ -1,23 +1,23 @@
 #pragma once
 
-#define типа {
-#define ёба }
-#define внатуре ==
+#define пахан int main()
+#define четкие_кенты std
+#define район namespace
+#define позови using
+#define блять ;
 #define базарь cout
 #define поясни cin
 #define сюда >>
 #define туда <<
-#define блять ;
 #define ещё ,
-#define чётко true
-#define хуево false
-#define если if
-#define иначе else
-#define пизже >
-#define хуёвей <
-#define бля_и_бля &&
-#define бля_или_бля ||
-#define бля_нет_бля !
+#define передай return
+#define типа {
+#define ёба }
+#define базаришь (
+#define ёпта )
+/*#define ёпта [
+#define базаришь ]*/
+
 #define лысый unsigned
 #define нормальный signed
 #define целый int
@@ -28,22 +28,45 @@
 #define дохуя_целый long
 #define децл char
 #define дегенерат bool
+#define понятие const
+
+
+#define чётко true
+#define хуево false
+
+
+#define если if
+#define иначе else
+#define внатуре ==
+#define пизже >
+#define хуёвей <
+#define не_пизже <=
+#define не_хуёвей >=
+#define бля_и_бля &&
+#define бля_или_бля ||
+#define бля_нет_бля !
+
 #define пиздуй goto
 #define ёбни break
 #define продолжь continue
+
 #define для for
 #define пока while
 #define ебашь do
-#define передай return
-#define понятие const
-#define пацан class
-#define чикса struct
-#define ньюфаг new
+
 #define дёрни try
 #define слови catch
 #define пиздани throw
+
+#define распиздуй switch
+#define случай case
+#define пиздец default
+
+#define пацан class
+#define чикса struct
+#define ньюфаг new
+#define отпизди delete
 #define кент friend
-#define район namespace
 #define нычка private
 #define фраерское public
 #define пацанское protected
@@ -51,19 +74,10 @@
 #define вертолёт virtual
 #define бля_я_нахуй this
 #define бицуха sizeof
-#define отпизди delete
-#define позови using
 #define братки :
 #define братуха :
 #define нихуя void
 #define хуйня nullptr
 #define спизди extern
-#define распиздуй switch
-#define случай case
-#define пиздец default
 #define шняга enum
 #define возьми ->
-#define пахан main
-#define четкие_кенты std
-#define ёпта )
-#define базаришь (
