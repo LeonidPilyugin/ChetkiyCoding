@@ -35,12 +35,10 @@
 #define терпила auto
 #define авторитет volatile
 
-
 #define чётко true
 #define хуево false
 
-
-#define если if
+#define если if(
 #define иначе else
 #define внатуре ==
 #define пизже >
