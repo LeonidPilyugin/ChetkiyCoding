@@ -75,7 +75,7 @@
 #define пиздец default
 
 #define пацан class
-#define чикса struct
+#define чемодан struct
 #define ньюфаг new
 #define отпизди delete
 #define кент friend
